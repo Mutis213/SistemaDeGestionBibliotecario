@@ -6,7 +6,9 @@ package View;
 
 /**
  *
- * @author Acer
+ * @author Andres Felipe Torres Padilla
+ * @author Valeria Benitez Cardenas
+ * @author Juan Pablo Mutis Torres
  */
 public class SistemaDeGestionBibliotecario {
 
